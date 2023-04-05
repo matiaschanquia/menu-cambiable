@@ -29,10 +29,9 @@ a {
 }
 
 .container-section-menu {
-    margin: 20px 0;
     width: 90%;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 .aviso {
