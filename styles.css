@@ -58,6 +58,7 @@ a {
     border-radius: 50%;
     overflow: hidden;
     transition: transform .1s linear;
+    opacity: .54;
 }
 
 .container-img:hover {
@@ -66,6 +67,7 @@ a {
 
 .container-img.active {
     outline: 3px solid #A8DADC;
+    opacity: 1;
 }
 
 .container-img > img {
